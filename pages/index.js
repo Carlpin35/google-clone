@@ -68,7 +68,7 @@ router.push(`/search?term=${term}`)
          <div className="flex flex-col w-1/2 space-y-2 justify-center mt-8 mb-2 sm:space-y-0 sm:flex-row sm:space-x-4">
            <button onClick={search} className="btn">Google search</button>
 
-           <button onClick={search} className="btn">I'm feeling Lucky</button>
+           <button onClick={search} className="btn">Im feeling Lucky</button>
          </div>
       </form>
 
